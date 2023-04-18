@@ -11,6 +11,8 @@ If you're using Amazon Cognito to manage user authentication in your application
 
 `git clone https://github.com/UN1QUELY/aws-cust-cognit`
 
+`cd aws-cust-cognit`
+
 `pip install -r requirements.txt`
 
 **Usage**
