@@ -2,7 +2,7 @@
 
 ### Description
 
-- AWS Cognito custom attriubutes in user pool exploitation tool
+- AWS Cognito exploitation tool for privilege escalation on custom attriubutes in user pool 
 
 If you're using Amazon Cognito to manage user authentication in your application, you should be aware of the permissions users have by default when issued an access token. 
 
