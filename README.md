@@ -19,5 +19,5 @@ These could be abused to overwrite user custom attributes, leading to privilege 
 
 **Usage**
 
-`python --aws-region <aws_region> --access_token <access_token>`
+`python --aws_region <aws-region> --access_token <access-token>`
 
