@@ -19,5 +19,5 @@ These could be abused to overwrite user custom attributes, leading to privilege 
 
 **Usage**
 
-`python --aws_region <aws-region> --access_token <access-token>`
+`python aws-cust-cognit.py --aws_region <aws-region> --access_token <access-token>`
 
