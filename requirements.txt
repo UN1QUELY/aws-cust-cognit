@@ -4,7 +4,7 @@ botocore==1.29.35
 certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==2.1.1
-cryptography==38.0.4
+cryptography==39.0.1
 ecdsa==0.18.0
 envs==1.4
 idna==3.4
